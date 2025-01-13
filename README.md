@@ -24,8 +24,8 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/MediConnect.git
-cd MediConnect
+git clone https://github.com/RahulKB31/HealthSync-Django.git
+cd myproject
 ```
 
 2. Set up a virtual environment:
@@ -74,7 +74,7 @@ python manage.py runserver
 
 Watch the demo video of the application below:
 
-[![Watch the video](https://www.loom.com/share/d22560b00dc24bab8d96fca2678549c4?sid=90d976f6-a6ed-4277-b4e4-7fdd94e1f3a5)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.loom.com/share/d22560b00dc24bab8d96fca2678549c4?sid=90d976f6-a6ed-4277-b4e4-7fdd94e1f3a5)
 
 ## Contributing
 
