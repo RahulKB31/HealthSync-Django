@@ -1,4 +1,4 @@
-# MediConnect - Django Healthcare Management App
+# HealthSync-Django App
 
 MediConnect is a Django-based healthcare management web application designed to connect patients and doctors seamlessly. This platform allows doctors to manage their profiles, and patients to access healthcare services efficiently.
 
@@ -72,9 +72,9 @@ python manage.py runserver
 
 ## Video Demo
 
-Check out the demo video of the application:
+Watch the demo video of the application below:
 
-[Watch the video demo](https://www.loom.com/share/d22560b00dc24bab8d96fca2678549c4?sid=90d976f6-a6ed-4277-b4e4-7fdd94e1f3a5 )
+[![Watch the video](https://www.loom.com/share/d22560b00dc24bab8d96fca2678549c4?sid=90d976f6-a6ed-4277-b4e4-7fdd94e1f3a5)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ## Contributing
 
